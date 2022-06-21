@@ -6,7 +6,7 @@ At the same time, social media is a place where a lot of personal opinions have 
 And most of the time those opinions are offensive and hateful.
 In the project, we will learn how to do Hate Speech Detection using Python programming language . 
 
-Tcchnologies Used - Python , pandas , numpy , NLTK , sklearn
+Technologies Used - Python , pandas , numpy , NLTK , sklearn
 
 Model is prepared using DecisionTreeClassifier from sklean.tree
 
