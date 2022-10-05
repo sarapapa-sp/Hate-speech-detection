@@ -13,7 +13,5 @@ Model is prepared using DecisionTreeClassifier from sklean.tree
 
 Demo output - 
 
-![image](https://user-images.githubusercontent.com/76932742/174738825-9b461891-f5a6-4eb8-9405-8e6de8f1c420.png)
+![image](https://user-images.githubusercontent.com/76932742/193995924-07698d1d-27ad-42f7-b592-57a828147810.png)
 
-
-![image](https://user-images.githubusercontent.com/76932742/174738949-c61e2c14-5d3d-4a11-a289-7444ab8a9c8c.png)
